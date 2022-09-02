@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- [Solution URL](https://github.com/wllyvx/frontendmentor-loopstudio/)
-- [Live Site](https://wllyvx.github.io/frontendmentor-loopstudio/)
+- [Solution URL](https://github.com/wllyvx/frontendmentor-fylo-dark-theme)
+- [Live Site](https://frontendmentor-fylo-dark-theme-idt2qevi8-wllyvx.vercel.app/)
 
 ## My process
 
